@@ -1,0 +1,6 @@
+if SHIELD_UNSPLIT38
+
+config ZMK_KEYBOARD_NAME
+    default "unsplit38"
+
+endif # SHIELD_UNSPLIT38
