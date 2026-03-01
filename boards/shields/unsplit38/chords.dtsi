@@ -45,7 +45,7 @@ CHORD(N3,      &kp N3,   25 26,     29 30)
 CHORD(N5,      &kp N5,   24 26,     29 31)
 CHORD(N6,      &kp N6,   24 25,     30 31)
 CHORD(N7,      &kp N7,   24 25 26,  29 30 31)
-CHORD(N9,      &kp N9,   23 26,     29 31)
+CHORD(N9,      &kp N9,   23 26,     29 32)
 
 // fn
 
@@ -75,7 +75,7 @@ CHORD(PIPE,  &kp PIPE,   13 3,  8 20)
 CHORD(MINUS,  &kp MINUS, 2 15,  18 9)
 CHORD(UNDER,  &kp UNDER, 2 3 15, 18 8  9)
 CHORD(EQUAL,  &kp EQUAL, 13 26, 29 20)
-CHORD(PLUS,  &kp PLUS,   13 15 26, 29 19 20)
+CHORD(PLUS,  &kp PLUS,   13 14 26, 29 19 20)
 CHORD(COMMA,  &kp COMMA, 3 15,  18 8)
 CHORD(DOT,  &kp DOT,     12 4,  7 21)
 CHORD(SLASH,  &kp SLASH, 12 3,  8 21)
@@ -85,7 +85,7 @@ CHORD(DQT,  &kp DQT,     12 2 3, 8 9 21)
 CHORD(GRAVE,  &kp GRAVE, 23 15, 18 32)
 CHORD(TILDE,  &kp TILDE, 24 15, 18 31)
 CHORD(SEMI,  &kp SEMI,   12 25, 21 30)
-CHORD(COLON,  &kp COLON, 23 15, 19 32)
+CHORD(COLON,  &kp COLON, 23 14, 19 32)
 
 // mod/control
 
