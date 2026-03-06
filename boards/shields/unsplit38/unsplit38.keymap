@@ -134,7 +134,7 @@
 
         raise_layer {
                 bindings = <
-&soft_off  &mkp MB1  &mmv MOVE_UP  &mkp MB2  &none           &kp C_PP  &kp C_PREV  &kp UP &none  &kp C_NEXT
+&none  &mkp MB1  &mmv MOVE_UP  &mkp MB2  &none           &kp C_PP  &kp C_PREV  &kp UP &none  &kp C_NEXT
 &out OUT_TOG  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &none                &none  &kp LEFT  &kp DOWN &kp RIGHT  &kp APOS
 &none &mkp MB4 &none &mkp MB5 &none                &kp TAB &none  &kp LC(LEFT)  &kp LC(RIGHT)  &none
 &kp LCTL &kp LALT &kp LSHFT &kp BSPC          &none  &none   &none  &none
