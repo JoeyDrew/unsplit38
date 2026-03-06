@@ -26,6 +26,7 @@
 
     kscan0: kscan_composite {
         compatible = "zmk,kscan-composite";
+        wakeup-source;
 
         matrix {
             kscan = <&kscan1>;
